@@ -1,0 +1,8 @@
+Michael Jordan; Chicago; San Francisco; 79632
+JK; Dalas; San Francisco; 79632
+Michael Jordan; Chicago; San Francisco; 79632
+John Doe; Boston; Chicago; 21434
+Ana Smith; Portland; Miami; 77354
+Alex X; Portland; Miami; 77354
+Tony Sn; Denver; Boston; 14355
+Xi; Boston; Chicago; 21434
