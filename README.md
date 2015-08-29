@@ -1,4 +1,4 @@
 # java
 Java programming, projects
 
-- **[MSIA - Java](/msia_java)**
+- **[MSIA - Java](/msia-java)**
